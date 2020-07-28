@@ -13,21 +13,22 @@
 - ✅ Next on the list, GraphQL.
 
 ## 🛠 Tech Stack
+
 - 💻 JavaScript | Node.js | Ruby | Python | Bash
 - 🌐 HTML | CSS | SCSS | ReactJS | Ruby on Rails
 - 🦜 Bootstrap | Tailwind CSS | Material UI
-- 🐘 PostgreSQL | MongoDB 
+- 🐘 PostgreSQL | MongoDB
 - 🐙 Express | Sequelize | Mongoose | ActiveRecord
 - 🔧 Git, Linux, Docker, Dokku, NGINX, Apache
+- 🚢 AWS: Lightsail, Route 53, S3, Cloudfront
+- 🏄‍♂️ Digital Ocean
 
 ---
-
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leopolicastro&show_icons=true)
 <br />
 <br />
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leopolicastro.leopolicastro)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=leopolicastro.leopolicastro)
 
 <!--
 **leopolicastro/leopolicastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,4 +44,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
