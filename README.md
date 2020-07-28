@@ -9,11 +9,11 @@
 
 - 💼 Instructor at [Wyncode Academy](https://github.com/wyncode)
 - 🤔 Full Stack Developer that leans towards back end technologies.
-- 🌱 Currently Learning Typescript in my downtime.
+- 🌱 Currently Learning TypeScript in my downtime.
 - ✅ Next on the list, GraphQL.
 
 ## 🛠 Tech Stack
-- 💻 Javascript | Node.js | Ruby | Python | Bash
+- 💻 JavaScript | Node.js | Ruby | Python | Bash
 - 🌐 HTML | CSS | SCSS | ReactJS | Ruby on Rails
 - 🦜 Bootstrap | Tailwind CSS | Material UI
 - 🐘 PostgreSQL | MongoDB 
