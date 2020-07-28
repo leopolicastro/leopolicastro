@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Instructor at Wyncode Academy
+- 💼 Instructor at [Wyncode Academy](https://github.com/wyncode)
 - 🤔 Full Stack Developer that leans towards back end technologies.
 - 🌱 Currently Learning Typescript in my downtime.
 - ✅ Next on the list, GraphQL.
