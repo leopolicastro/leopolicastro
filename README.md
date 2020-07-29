@@ -14,19 +14,20 @@
 
 ## 🛠 Tech Stack
 
-- 💻 JavaScript | Node.js | Ruby | Python | Bash
-- 🌐 HTML | CSS | SCSS | ReactJS | Ruby on Rails
-- 🦜 Bootstrap | Tailwind CSS | Material UI
+- 💻 Node.js | Ruby | Python | Bash
+- 🌐 ReactJS | Ruby on Rails
+- 🦊 Sequelize | Mongoose | ActiveRecord
+- 🐙 Express | Jekyll | Sinatra
 - 🐘 PostgreSQL | MongoDB
-- 🐙 Express | Sequelize | Mongoose | ActiveRecord
-- 🔧 Git, Linux, Docker, Dokku, NGINX, Apache
-- 🚢 AWS: Lightsail, Route 53, S3, Cloudfront
+- 🌐 JavaScript | HTML | CSS | SCSS
+- 🦜 Bootstrap | Tailwind CSS | Material UI
+- 🔧 Git | Linux | Docker | Dokku | NGINX | Apache
+- 🚢 AWS: Lightsail | Route 53 | S3 | Cloudfront
 - 🏄‍♂️ Digital Ocean
 
 ---
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leopolicastro&show_icons=true)
-<br />
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leopolicastro.leopolicastro)
 
