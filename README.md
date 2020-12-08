@@ -23,6 +23,3 @@
 
 ---
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leopolicastro&show_icons=true)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=leopolicastro.leopolicastro)
