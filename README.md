@@ -8,26 +8,21 @@
 ## 👨‍💻 About Me
 
 - 💼 Instructor at [Wyncode Academy](https://github.com/wyncode)
-- 🤔 Full Stack Developer that leans towards back end technologies.
-- 🌱 Currently learning TypeScript in my downtime.
-- ✅ Next on the list, GraphQL.
+- 🧢 Full Stack Developer.
 
 ## 🛠 Tech Stack
 
-- 💻 Node.js | Ruby | Python | Bash
-- 🌐 ReactJS | Ruby on Rails
+- 💻 JavaScript | Python | Ruby | Bash
+- 🌐 ReactJS | Django | Ruby on Rails
 - 🦊 Sequelize | Mongoose | ActiveRecord
-- 🐙 Express | Jekyll | Sinatra
+- 🐙 Express | Jekyll | Flask
 - 🐘 PostgreSQL | MongoDB
 - 🌐 JavaScript | HTML | CSS | SCSS
-- 🦜 Bootstrap | Tailwind CSS | Material UI
 - 🔧 Git | Linux | Docker | Dokku | NGINX | Apache
-- 🚢 AWS: Lightsail | Route 53 | S3 | Cloudfront
-- 🏄‍♂️ Digital Ocean
+- 🚢 AWS: Lightsail | Route 53 | S3 | Cloudfront | EC2 | Lambda | Elastic Beanstalk
 
 ---
 
 ![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leopolicastro&show_icons=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=leopolicastro.leopolicastro)
-
