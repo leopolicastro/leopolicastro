@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Instructor at [Wyncode Academy](https://github.com/wyncode)
+- 💼 Solution Analyst at Deloitte.
 - 🧢 Full Stack Developer.
 
 ## 🛠 Tech Stack
