@@ -12,14 +12,12 @@
 
 ## 🛠 Tech Stack
 
-- 💻 JavaScript | Python | Ruby | Bash
-- 🌐 ReactJS | Django | Ruby on Rails
-- 🦊 Sequelize | Mongoose | ActiveRecord
+- 💻 Node.js | Ruby | Python | Bash
+- 🌐 Ruby on Rails | React | Django
+- 🦊 Node.js ORMs (Mongoose, Sequelize, Prisma)
 - 🐙 Express | Jekyll | Flask
 - 🐘 PostgreSQL | MongoDB
-- 🌐 JavaScript | HTML | CSS | SCSS
-- 🔧 Git | Linux | Docker | Dokku | NGINX | Apache
-- 🚢 AWS: Lightsail | Route 53 | S3 | Cloudfront | EC2 | Lambda | Elastic Beanstalk
-
+- 🌐 JavaScript | HTML | CSS
+- 🔧 Git | Linux | VPS
 ---
 
