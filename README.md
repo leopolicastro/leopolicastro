@@ -7,8 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Solution Analyst at Deloitte.
-- 🧢 Full Stack Developer.
+- 🧢 Full Stack Software Developer at Valley Forge Fabrics.
 
 ## 🛠 Tech Stack
 
