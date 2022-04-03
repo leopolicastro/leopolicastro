@@ -7,15 +7,13 @@
 
 ## 👨‍💻 About Me
 
-- 🧢 Full Stack Software Developer at Valley Forge Fabrics.
+- 🧢 Ruby on Rails Developer at Valley Forge Fabrics.
 
 ## 🛠 Tech Stack
 
-- 💻 Node.js | Ruby | Python | Bash
-- 🌐 Ruby on Rails | React | Django
-- 🦊 Node.js ORMs (Mongoose, Sequelize, Prisma)
-- 🐙 Express | Jekyll | Flask
-- 🐘 PostgreSQL | MongoDB
+- 🌐 Ruby on Rails | React | Python
+- 💻 Ruby | Node.js | Python 
+- 🐘 PostgreSQL | MongoDB | MySQL
 - 🌐 JavaScript | HTML | CSS
 - 🔧 Git | Linux | VPS
 ---
