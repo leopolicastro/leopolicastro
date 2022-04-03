@@ -15,6 +15,5 @@
 - 💻 Ruby | Node.js | Python 
 - 🐘 PostgreSQL | MongoDB | MySQL
 - 🌐 JavaScript | HTML | CSS
-- 🔧 Git | Linux | VPS
 ---
 
