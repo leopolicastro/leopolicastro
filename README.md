@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧢 Ruby on Rails Developer at Valley Forge Fabrics.
+- 🧢 Ruby on Rails Developer.
 
 ## 🛠 Tech Stack
 
