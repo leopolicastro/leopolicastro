@@ -9,10 +9,5 @@
 
 - 🧢 Ruby on Rails Developer.
 
-## 🛠 Tech Stack
 
-- 💻 Ruby | Node.js | Python 
-- 🐘 PostgreSQL | MongoDB | MySQL
-- 🌐 JavaScript | HTML | CSS
----
 
