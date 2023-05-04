@@ -11,7 +11,6 @@
 
 ## 🛠 Tech Stack
 
-- 🌐 Ruby on Rails | React | Python
 - 💻 Ruby | Node.js | Python 
 - 🐘 PostgreSQL | MongoDB | MySQL
 - 🌐 JavaScript | HTML | CSS
