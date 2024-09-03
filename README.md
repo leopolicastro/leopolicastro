@@ -8,6 +8,5 @@
 ## 👨‍💻 About Me
 
 - 🧢 Ruby on Rails Developer.
-- some edit
 
 
